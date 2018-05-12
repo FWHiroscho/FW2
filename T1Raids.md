@@ -1,6 +1,3 @@
-# FW2
-Guide to Fugatsu World S2 in WC3
-
 Buy a fishing rod north of the 2nd city and use it to get some fish.
 
 | RaidNr | Boss Name | Key | 
